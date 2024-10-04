@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952116001373",
+    "project_id": "bracu-chat-18301147",
+    "storage_bucket": "bracu-chat-18301147.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952116001373:android:a2c6ec2a87527b3b1b2bb4",
+        "android_client_info": {
+          "package_name": "com.aanomanansary.bracuchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclVdFQ45w22NJaNB5Oz8lfuxVp5PZxTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
