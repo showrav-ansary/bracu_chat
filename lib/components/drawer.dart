@@ -1,5 +1,5 @@
 import 'package:bracu_chat/services/auth/auth_service.dart';
-import 'package:bracu_chat/pages/settings_page.dart';
+import 'package:bracu_chat/views/settings_page.dart';
 import 'package:flutter/material.dart';
 
 class EnhancedDrawer extends StatelessWidget {

@@ -1,5 +1,5 @@
 import 'package:bracu_chat/services/auth/login_or_register.dart';
-import 'package:bracu_chat/pages/home_page.dart';
+import 'package:bracu_chat/views/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
