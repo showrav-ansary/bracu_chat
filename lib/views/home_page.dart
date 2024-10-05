@@ -1,6 +1,6 @@
 import 'package:bracu_chat/components/drawer.dart';
 import 'package:bracu_chat/components/user_tile.dart';
-import 'package:bracu_chat/pages/chat_page.dart';
+import 'package:bracu_chat/views/chat_page.dart';
 import 'package:bracu_chat/services/auth/auth_service.dart';
 import 'package:bracu_chat/services/chat/chat_service.dart';
 import 'package:flutter/material.dart';
